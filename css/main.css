@@ -30,5 +30,7 @@ html {
 
 .banner-content {
   position: absolute;
-  
+  bottom: .3em;
+  left: 1em;
+  color: #fff;
 }
